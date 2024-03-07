@@ -6897,7 +6897,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2ee766ec-401d-4d75-a5c6-f0fc84f99e9e")
-		(property "Reference" "SW?"
+		(property "Reference" "SW30"
 			(at 139.7 97.79 0)
 			(effects
 				(font
@@ -6913,7 +6913,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20_special"
+		(property "Footprint" "lowProfile:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm"
 			(at 143.51 109.474 0)
 			(effects
 				(font
@@ -6964,7 +6964,7 @@
 		(instances
 			(project "reversible"
 				(path "/4b5512f1-4036-44b1-a4c2-dbd3b8563587"
-					(reference "SW?")
+					(reference "SW30")
 					(unit 1)
 				)
 			)
@@ -11400,7 +11400,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de0fe85f-f12b-4099-813b-a2f3c50378ab")
-		(property "Reference" "D?"
+		(property "Reference" "D30"
 			(at 128.1684 109.9566 90)
 			(effects
 				(font
@@ -11418,7 +11418,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard Library:Diode_DO35_SOD123"
+		(property "Footprint" "lowProfile:Diode_TH_SOD123"
 			(at 127 107.95 0)
 			(effects
 				(font
@@ -11454,7 +11454,7 @@
 		(instances
 			(project "reversible"
 				(path "/4b5512f1-4036-44b1-a4c2-dbd3b8563587"
-					(reference "D?")
+					(reference "D30")
 					(unit 1)
 				)
 			)
